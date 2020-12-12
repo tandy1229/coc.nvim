@@ -1,3 +1,5 @@
+**this is the fork from [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim), which is the version can use coc-actions**
+
 <p align="center">
   <a href="https://www.vim.org/scripts/script.php?script_id=5779">
     <img alt="Coc Logo" src="https://user-images.githubusercontent.com/251450/55009068-f4ed2780-501c-11e9-9a3b-cf3aa6ab9272.png" height="160" />
